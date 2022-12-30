@@ -1,0 +1,198 @@
+show_id,type,title,date_added,release_year,rating,duration
+s1,Movie,Dick Johnson Is Dead,25-Sep-21,2020,PG-13,90 min
+s2,TV Show,Blood & Water,24-Sep-21,2021,TV-MA,2 Seasons
+s3,TV Show,Ganglands,24-Sep-21,2021,TV-MA,1 Season
+s4,TV Show,Jailbirds New Orleans,24-Sep-21,2021,TV-MA,1 Season
+s5,TV Show,Kota Factory,24-Sep-21,2021,TV-MA,2 Seasons
+s6,TV Show,Midnight Mass,24-Sep-21,2021,TV-MA,1 Season
+s7,Movie,My Little Pony: A New Generation,24-Sep-21,2021,PG,91 min
+s8,Movie,Sankofa,24-Sep-21,1993,TV-MA,125 min
+s9,TV Show,The Great British Baking Show,24-Sep-21,2021,TV-14,9 Seasons
+s10,Movie,The Starling,24-Sep-21,2021,PG-13,104 min
+s12,TV Show,Bangkok Breaking,23-Sep-21,2021,TV-MA,1 Season
+s13,Movie,Je Suis Karl,23-Sep-21,2021,TV-MA,127 min
+s14,Movie,Confessions of an Invisible Girl,22-Sep-21,2021,TV-PG,91 min
+s15,TV Show,Crime Stories: India Detectives,22-Sep-21,2021,TV-MA,1 Season
+s16,TV Show,Dear White People,22-Sep-21,2021,TV-MA,4 Seasons
+s17,Movie,Europe's Most Dangerous Man: Otto Skorzeny in Spain,22-Sep-21,2020,TV-MA,67 min
+s18,TV Show,Falsa identidad,22-Sep-21,2020,TV-MA,2 Seasons
+s19,Movie,Intrusion,22-Sep-21,2021,TV-14,94 min
+s20,TV Show,Jaguar,22-Sep-21,2021,TV-MA,1 Season
+s21,TV Show,Monsters Inside: The 24 Faces of Billy Milligan,22-Sep-21,2021,TV-14,1 Season
+s22,TV Show,Resurrection: Ertugrul,22-Sep-21,2018,TV-14,5 Seasons
+s23,Movie,Avvai Shanmughi,21-Sep-21,1996,TV-PG,161 min
+s24,Movie,Go! Go! Cory Carson: Chrissy Takes the Wheel,21-Sep-21,2021,TV-Y,61 min
+s25,Movie,Jeans,21-Sep-21,1998,TV-14,166 min
+s26,TV Show,Love on the Spectrum,21-Sep-21,2021,TV-14,2 Seasons
+s27,Movie,Minsara Kanavu,21-Sep-21,1997,TV-PG,147 min
+s28,Movie,Grown Ups,20-Sep-21,2010,PG-13,103 min
+s29,Movie,Dark Skies,19-Sep-21,2013,PG-13,97 min
+s30,Movie,Paranoia,19-Sep-21,2013,PG-13,106 min
+s31,Movie,Ankahi Kahaniya,17-Sep-21,2021,TV-14,111 min
+s32,TV Show,Chicago Party Aunt,17-Sep-21,2021,TV-MA,1 Season
+s33,TV Show,Sex Education,17-Sep-21,2020,TV-MA,3 Seasons
+s34,TV Show,Squid Game,17-Sep-21,2021,TV-MA,1 Season
+s35,TV Show,Tayo and Little Wizards,17-Sep-21,2020,TV-Y7,1 Season
+s36,Movie,The Father Who Moves Mountains,17-Sep-21,2021,TV-MA,110 min
+s37,Movie,The Stronghold,17-Sep-21,2021,TV-MA,105 min
+s38,TV Show,Angry Birds,16-Sep-21,2018,TV-Y7,1 Season
+s39,Movie,Birth of the Dragon,16-Sep-21,2017,PG-13,96 min
+s40,TV Show,Chhota Bheem,16-Sep-21,2021,TV-Y7,3 Seasons
+s41,TV Show,He-Man and the Masters of the Universe,16-Sep-21,2021,TV-Y7,1 Season
+s42,Movie,Jaws,16-Sep-21,1975,PG,124 min
+s43,Movie,Jaws 2,16-Sep-21,1978,PG,116 min
+s44,Movie,Jaws 3,16-Sep-21,1983,PG,98 min
+s45,Movie,Jaws: The Revenge,16-Sep-21,1987,PG-13,91 min
+s46,Movie,My Heroes Were Cowboys,16-Sep-21,2021,PG,23 min
+s47,Movie,Safe House,16-Sep-21,2012,R,115 min
+s48,TV Show,The Smart Money Woman,16-Sep-21,2020,TV-MA,1 Season
+s49,Movie,Training Day,16-Sep-21,2001,R,122 min
+s50,TV Show,Castle and Castle,15-Sep-21,2021,TV-MA,2 Seasons
+s51,TV Show,Dharmakshetra,15-Sep-21,2014,TV-PG,1 Season
+s52,Movie,InuYasha the Movie 2: The Castle Beyond the Looking Glass,15-Sep-21,2002,TV-14,99 min
+s53,Movie,InuYasha the Movie 3: Swords of an Honorable Ruler,15-Sep-21,2003,TV-14,99 min
+s54,Movie,InuYasha the Movie 4: Fire on the Mystic Island,15-Sep-21,2004,TV-PG,88 min
+s55,Movie,InuYasha the Movie: Affections Touching Across Time,15-Sep-21,2001,TV-PG,100 min
+s56,TV Show,Nailed It,15-Sep-21,2021,TV-PG,6 Seasons
+s57,Movie,Naruto Shippuden the Movie: Blood Prison,15-Sep-21,2011,TV-14,102 min
+s58,Movie,Naruto Shippûden the Movie: Bonds,15-Sep-21,2008,TV-PG,93 min
+s59,Movie,Naruto Shippûden the Movie: The Will of Fire,15-Sep-21,2009,TV-PG,96 min
+s60,Movie,Naruto Shippuden: The Movie,15-Sep-21,2007,TV-PG,95 min
+s61,Movie,Naruto Shippuden: The Movie: The Lost Tower,15-Sep-21,2010,TV-14,85 min
+s62,Movie,Naruto the Movie 2: Legend of the Stone of Gelel,15-Sep-21,2005,TV-PG,97 min
+s63,Movie,Naruto the Movie 3: Guardians of the Crescent Moon Kingdom,15-Sep-21,2006,TV-PG,95 min
+s64,Movie,Naruto the Movie: Ninja Clash in the Land of Snow,15-Sep-21,2004,TV-PG,83 min
+s65,Movie,Nightbooks,15-Sep-21,2021,TV-PG,103 min
+s66,TV Show,Numberblocks,15-Sep-21,2021,TV-Y,6 Seasons
+s67,TV Show,Raja Rasoi Aur Anya Kahaniyan,15-Sep-21,2014,TV-G,1 Season
+s68,TV Show,Saved by the Bell,15-Sep-21,1994,TV-PG,9 Seasons
+s69,Movie,Schumacher,15-Sep-21,2021,TV-14,113 min
+s70,TV Show,Stories by Rabindranath Tagore,15-Sep-21,2015,TV-PG,1 Season
+s71,TV Show,Too Hot To Handle: Latino,15-Sep-21,2021,TV-MA,1 Season
+s72,Movie,A StoryBots Space Adventure,14-Sep-21,2021,TV-Y,13 min
+s73,TV Show,Jack Whitehall: Travels with My Father,14-Sep-21,2021,TV-MA,5 Seasons
+s74,Movie,King of Boys,14-Sep-21,2018,TV-MA,182 min
+s75,TV Show,The World's Most Amazing Vacation Rentals,14-Sep-21,2021,TV-PG,2 Seasons
+s76,Movie,You vs. Wild: Out Cold,14-Sep-21,2021,TV-G,106 min
+s77,TV Show,Yowamushi Pedal,14-Sep-21,2013,TV-14,1 Season
+s78,Movie,Little Singham - Black Shadow,11-Sep-21,2021,TV-Y7,48 min
+s79,Movie,Tughlaq Durbar,11-Sep-21,2020,TV-14,145 min
+s80,Movie,Tughlaq Durbar (Telugu),11-Sep-21,2021,TV-14,145 min
+s81,Movie,Firedrake the Silver Dragon,10-Sep-21,2021,TV-Y7,93 min
+s82,Movie,Kate,10-Sep-21,2021,R,106 min
+s83,TV Show,Lucifer,10-Sep-21,2021,TV-14,6 Seasons
+s84,TV Show,Metal Shop Masters,10-Sep-21,2021,TV-MA,1 Season
+s85,Movie,Omo Ghetto: the Saga,10-Sep-21,2020,TV-MA,147 min
+s86,TV Show,Pokémon Master Journeys: The Series,10-Sep-21,2021,TV-Y7,1 Season
+s87,Movie,Prey,10-Sep-21,2021,TV-MA,87 min
+s88,TV Show,Titipo Titipo,10-Sep-21,2019,TV-Y,2 Seasons
+s89,Movie,Blood Brothers: Malcolm X & Muhammad Ali,9-Sep-21,2021,PG-13,96 min
+s90,TV Show,Mighty Raju,9-Sep-21,2017,TV-Y7,4 Seasons
+s91,Movie,Paradise Hills,9-Sep-21,2019,TV-MA,95 min
+s92,Movie,The Women and the Murderer,9-Sep-21,2021,TV-14,92 min
+s93,TV Show,Into the Night,8-Sep-21,2021,TV-MA,2 Seasons
+s94,Movie,JJ+E,8-Sep-21,2021,TV-MA,91 min
+s95,Movie,Show Dogs,8-Sep-21,2018,PG,90 min
+s96,TV Show,The Circle,8-Sep-21,2021,TV-MA,3 Seasons
+s97,Movie,If I Leave Here Tomorrow: A Film About Lynyrd Skynyrd,7-Sep-21,2018,TV-MA,97 min
+s98,TV Show,Kid Cosmic,7-Sep-21,2021,TV-Y7,2 Seasons
+s99,TV Show,Octonauts: Above & Beyond,7-Sep-21,2021,TV-Y,1 Season
+s100,TV Show,On the Verge,7-Sep-21,2021,TV-MA,1 Season
+s101,TV Show,Tobot Galaxy Detectives,7-Sep-21,2019,TV-Y7,2 Seasons
+s102,Movie,Untold: Breaking Point,7-Sep-21,2021,TV-MA,80 min
+s103,TV Show,Countdown: Inspiration4 Mission to Space,6-Sep-21,2021,TV-14,1 Season
+s104,Movie,Shadow Parties,6-Sep-21,2020,TV-MA,117 min
+s105,TV Show,Tayo the Little Bus,6-Sep-21,2016,TV-Y,2 Seasons
+s106,Movie,Angamaly Diaries,5-Sep-21,2017,TV-14,128 min
+s107,TV Show,Bunk'd,5-Sep-21,2021,TV-G,5 Seasons
+s108,Movie,A Champion Heart,4-Sep-21,2018,G,90 min
+s109,TV Show,Dive Club,3-Sep-21,2021,TV-G,1 Season
+s110,TV Show,La casa de papel,3-Sep-21,2021,TV-MA,5 Seasons
+s111,TV Show,Money Heist: From Tokyo to Berlin,3-Sep-21,2021,TV-MA,1 Season
+s112,TV Show,Sharkdog,3-Sep-21,2021,TV-Y,1 Season
+s113,Movie,Worth,3-Sep-21,2021,PG-13,119 min
+s114,Movie,Afterlife of the Party,2-Sep-21,2021,TV-PG,110 min
+s115,Movie,Anjaam,2-Sep-21,1994,TV-14,143 min
+s116,Movie,Bright Star,2-Sep-21,2009,PG,119 min
+s117,Movie,Dhanak,2-Sep-21,2015,TV-PG,114 min
+s118,Movie,Final Account,2-Sep-21,2021,PG-13,94 min
+s119,Movie,Gurgaon,2-Sep-21,2017,TV-14,106 min
+s120,Movie,Here and There,2-Sep-21,2020,TV-MA,99 min
+s121,TV Show,Heroes of Goo Jit Zu,2-Sep-21,2021,TV-Y7,1 Season
+s122,TV Show,Hotel Del Luna,2-Sep-21,2019,TV-14,1 Season
+s123,Movie,In the Cut,2-Sep-21,2003,R,118 min
+s124,TV Show,Luv Kushh,2-Sep-21,2012,TV-Y7,1 Season
+s125,TV Show,Pororo - The Little Penguin,2-Sep-21,2013,TV-Y7,3 Seasons
+s126,TV Show,Q-Force,2-Sep-21,2021,TV-MA,1 Season
+s127,Movie,Shikara,2-Sep-21,2020,TV-14,115 min
+s128,Movie,A Cinderella Story,1-Sep-21,2004,PG,95 min
+s129,Movie,Agatha Christie's Crooked House,1-Sep-21,2017,PG-13,115 min
+s130,Movie,An Unfinished Life,1-Sep-21,2005,PG-13,108 min
+s131,Movie,Barbie Big City Big Dreams,1-Sep-21,2021,TV-Y,63 min
+s132,Movie,Blade Runner: The Final Cut,1-Sep-21,1982,R,117 min
+s133,TV Show,Brave Animated Series,1-Sep-21,2021,TV-MA,1 Season
+s134,Movie,Chappie,1-Sep-21,2015,R,121 min
+s135,Movie,Clear and Present Danger,1-Sep-21,1994,PG-13,142 min
+s136,Movie,Cliffhanger,1-Sep-21,1993,R,113 min
+s137,Movie,Cold Mountain,1-Sep-21,2003,R,154 min
+s138,Movie,Crocodile Dundee in Los Angeles,1-Sep-21,2001,PG,95 min
+s139,Movie,Dear John,1-Sep-21,2010,PG-13,108 min
+s140,Movie,Do the Right Thing,1-Sep-21,1989,R,120 min
+s142,Movie,Extraction,1-Sep-21,2015,R,82 min
+s143,Movie,Freedom Writers,1-Sep-21,2007,PG-13,124 min
+s144,Movie,Green Lantern,1-Sep-21,2011,PG-13,114 min
+s145,Movie,House Party,1-Sep-21,1990,R,104 min
+s146,Movie,House Party 2,1-Sep-21,1991,R,94 min
+s147,Movie,House Party 3,1-Sep-21,1994,R,94 min
+s148,TV Show,How to Be a Cowboy,1-Sep-21,2021,TV-PG,1 Season
+s149,TV Show,HQ Barbers,1-Sep-21,2020,TV-14,1 Season
+s150,Movie,I Got the Hook Up,1-Sep-21,1998,R,93 min
+s151,Movie,In Too Deep,1-Sep-21,1999,R,97 min
+s152,Movie,Initial D,1-Sep-21,2005,TV-14,109 min
+s153,Movie,Janoskians: Untold and Untrue,1-Sep-21,2016,TV-MA,88 min
+s154,TV Show,Kid-E-Cats,1-Sep-21,2016,TV-Y,2 Seasons
+s155,TV Show,Kuroko's Basketball,1-Sep-21,2015,TV-MA,3 Seasons
+s156,Movie,Labyrinth,1-Sep-21,1986,PG,101 min
+s157,Movie,Letters to Juliet,1-Sep-21,2010,PG,105 min
+s158,Movie,Level 16,1-Sep-21,2018,TV-14,102 min
+s159,Movie,Love Don't Cost a Thing,1-Sep-21,2003,PG-13,101 min
+s160,Movie,Love in a Puff,1-Sep-21,2010,TV-MA,103 min
+s161,TV Show,Major Dad,1-Sep-21,1992,TV-PG,4 Seasons
+s162,Movie,Mars Attacks!,1-Sep-21,1996,PG-13,106 min
+s163,Movie,Marshall,1-Sep-21,2017,PG-13,118 min
+s164,Movie,My Boss's Daughter,1-Sep-21,2003,R,86 min
+s165,Movie,Mystery Men,1-Sep-21,1999,PG-13,121 min
+s166,TV Show,Oldsters,1-Sep-21,2019,TV-MA,1 Season
+s167,Movie,Once Upon a Time in America,1-Sep-21,1984,R,229 min
+s168,Movie,Open Season 2,1-Sep-21,2008,PG,76 min
+s169,Movie,Osmosis Jones,1-Sep-21,2001,PG,95 min
+s170,Movie,Poseidon,1-Sep-21,2006,PG-13,98 min
+s171,Movie,Rhyme & Reason,1-Sep-21,1997,R,89 min
+s172,Movie,Same Kind of Different as Me,1-Sep-21,2017,PG-13,120 min
+s173,Movie,School of Rock,1-Sep-21,2003,PG-13,110 min
+s174,Movie,Snervous Tyler Oakley,1-Sep-21,2015,PG-13,83 min
+s175,Movie,Tears of the Sun,1-Sep-21,2003,R,121 min
+s176,Movie,The Blue Lagoon,1-Sep-21,1980,R,105 min
+s177,Movie,The Golden Child,1-Sep-21,1986,PG-13,94 min
+s178,Movie,The Guns of Navarone,1-Sep-21,1961,TV-14,156 min
+s179,Movie,The Interview,1-Sep-21,2014,R,112 min
+s180,Movie,The Nutty Professor,1-Sep-21,1996,PG-13,95 min
+s181,Movie,The Nutty Professor II: The Klumps,1-Sep-21,2000,PG-13,107 min
+s182,TV Show,Turning Point: 9/11 and the War on Terror,1-Sep-21,2021,TV-14,1 Season
+s183,Movie,Welcome Home Roscoe Jenkins,1-Sep-21,2008,PG-13,114 min
+s184,Movie,In the Line of Fire,31-Aug-21,1993,R,129 min
+s185,TV Show,Sparking Joy,31-Aug-21,2021,TV-PG,1 Season
+s186,Movie,Untold: Crime & Penalties,31-Aug-21,2021,TV-MA,86 min
+s187,TV Show,Hometown Cha-Cha-Cha,29-Aug-21,2021,TV-14,1 Season
+s188,TV Show,The Ingenuity of the Househusband,29-Aug-21,2021,TV-G,1 Season
+s189,Movie,2 Alone in Paris,28-Aug-21,2008,TV-MA,97 min
+s190,TV Show,Bread Barbershop,28-Aug-21,2020,TV-Y,2 Seasons
+s191,Movie,Thimmarusu,28-Aug-21,2021,TV-14,125 min
+s192,Movie,Wind River,28-Aug-21,2017,R,107 min
+s193,Movie,C Kkompany,27-Aug-21,2008,TV-14,127 min
+s194,TV Show,D.P.,27-Aug-21,2021,TV-MA,1 Season
+s195,TV Show,Deadly Sins,27-Aug-21,2002,TV-MA,1 Season
+s196,Movie,EMI: Liya Hai To Chukana Padega,27-Aug-21,2008,TV-14,128 min
+s197,Movie,He's All That,27-Aug-21,2021,TV-14,92 min
+s198,TV Show,I Heart Arlo,27-Aug-21,2021,TV-Y7,1 Season
+s199,TV Show,King of Boys: The Return of the King,27-Aug-21,2021,TV-MA,1 Season
